@@ -1,0 +1,9 @@
+Package: assignment5
+Type: Package
+Title: What the package does (short line)
+Version: 1.0
+Date: 2019-10-06
+Author: Vinod Kumar Dasari & Gowtham Kukkemane Mahalingabhat
+Maintainer: Authors<gowku593@student.liu.se & vinda604@student.liu.se>
+Description: More about what it does (maybe more than one line)
+License: GNU General Public License v2.0
