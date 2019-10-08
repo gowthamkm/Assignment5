@@ -1,0 +1,1 @@
+tornado<-read.csv("https://www.spc.noaa.gov/wcm/data/2018_torn.csv" )
