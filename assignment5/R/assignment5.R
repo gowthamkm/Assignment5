@@ -1,4 +1,5 @@
 
+
 #' A stamen map API, Assignment5 - tornado mapping  package in R.
 #' @description This package contains the code for Mapping Torenado's in United States of America. A tornedo map function is created which takes two arguments and returns the location in map view.
 #' @param lati,longi Takes in two parameters, lati takes a geo coordination - latitude, numeric type and longi takes a geo coordination - longitude of numeric type.
