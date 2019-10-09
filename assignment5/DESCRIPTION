@@ -1,9 +1,9 @@
 Package: assignment5
 Type: Package
-Title: What the package does (short line)
+Title: Shows Tornado occurances in the area
 Version: 1.0
 Date: 2019-10-06
 Author: Vinod Kumar Dasari & Gowtham Kukkemane Mahalingabhat
-Maintainer: Authors<gowku593@student.liu.se & vinda604@student.liu.se>
-Description: More about what it does (maybe more than one line)
+Maintainer: Gowtham <gowku593@student.liu.se>
+Description: This package uses S3 class model, to call OSM  through Stamen API and plots on map thus it can be used in any shiny package so as to display on UI. (maybe more than one line)
 License: GNU General Public License v2.0
